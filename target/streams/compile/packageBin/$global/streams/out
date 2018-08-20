@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/peyton/Documents/OrcToCassandraSparkExample/target/scala-2.11/orctocassandrasparkexample_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peyton/Documents/OrcToCassandraSparkExample/target/scala-2.11/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peyton/Documents/OrcToCassandraSparkExample/target/scala-2.11/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LoadSampleData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peyton/Documents/OrcToCassandraSparkExample/target/scala-2.11/classes/LoadSampleData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peyton/Documents/OrcToCassandraSparkExample/target/scala-2.11/classes/Main$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peyton/Documents/OrcToCassandraSparkExample/target/scala-2.11/classes/Main$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peyton/Documents/OrcToCassandraSparkExample/target/scala-2.11/classes/Main$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sample_txt$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peyton/Documents/OrcToCassandraSparkExample/target/scala-2.11/classes/sample_txt$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sample_txt.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peyton/Documents/OrcToCassandraSparkExample/target/scala-2.11/classes/sample_txt.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LoadSampleData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peyton/Documents/OrcToCassandraSparkExample/target/scala-2.11/classes/LoadSampleData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peyton/Documents/OrcToCassandraSparkExample/target/scala-2.11/classes/Main$$typecreator2$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

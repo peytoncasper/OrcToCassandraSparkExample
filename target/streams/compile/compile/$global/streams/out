@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/peyton/Documents/OrcToCassandraSparkExample/src/main/scala/Main.scala:30:30: identifier expected but integer literal found.[0m
+[0m[[0m[31merror[0m] [0m[0m      .load("hdfs://" + args[0] + "/user/hive/warehouse/sample_database.db/sample_orc/")[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/peyton/Documents/OrcToCassandraSparkExample/src/main/scala/Main.scala:66:3: ']' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  }[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
