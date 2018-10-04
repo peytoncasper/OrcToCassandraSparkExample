@@ -26,7 +26,7 @@ sbt package
 # Load The Sample Data into Hive
 
 ```
-dse spark-submit --class LoadSampleData target/scala-2.11/orctocassandrasparkexample_2.11-0.1.jar localhost:32782 file:///home/peyton/Documents/FloridaBlueDataTransformer/src/main/data/sample.dat
+dse spark-submit --class LoadSampleData target/scala-2.11/orctocassandrasparkexample_2.11-0.1.jar localhost:32782 file:///sample.dat
 ```
 
 # Attach to the Cloudra Docker Instance
